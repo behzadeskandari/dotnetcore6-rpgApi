@@ -1,4 +1,4 @@
-﻿namespace dotnet_rpg.Models
+﻿namespace dotnet_rpg.Dtos.User
 {
     public class UserLoginDto
     {

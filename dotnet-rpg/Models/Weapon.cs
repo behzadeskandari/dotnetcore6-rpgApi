@@ -1,6 +1,6 @@
 ﻿using dotnet_rpg.Models;
 
-namespace dotnet_rpg.Data
+namespace dotnet_rpg.Models
 {
     public class Weapon
     {
